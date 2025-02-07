@@ -3,7 +3,7 @@ Berechnet die Zutatenliste für Crêpes anhand der vorhandenen Menge.
 
 Neueste Version: <a href="https://github.com/Alsweider/CrepeCalc/releases/latest">Herunterladen</a>
 
-![2025-02-07 13_33_51-CrêpeCalc](https://github.com/user-attachments/assets/d22f8685-ed73-4ace-8563-a9ebba2cc768)
+![2025-02-07 16_48_35-CrêpeCalc](https://github.com/user-attachments/assets/00770384-11bb-4877-890e-e27e8918cf9c)
 
 # Anleitung
 
